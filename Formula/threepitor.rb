@@ -6,12 +6,12 @@ class Threepitor < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/mxriverlynn/3Pitor/releases/download/v0.2.0/3pitor-0.2.0-darwin-arm64.tar.gz"
-      sha256 "895a85365250d657a2f9addf96eb7b29d8a39e91a1439364e776e208d9574d9c"
+      url "https://github.com/mxriverlynn/3Pitor/releases/download/v0.3.0/3pitor-0.3.0-darwin-arm64.tar.gz"
+      sha256 "c409d03bab98362025103a39ebb4de3bdeff8a2b934789695a3ce84789889a01"
     end
     on_intel do
-      url "https://github.com/mxriverlynn/3Pitor/releases/download/v0.2.0/3pitor-0.2.0-darwin-x86_64.tar.gz"
-      sha256 "60fc2a8d3a273d00c49c989ade62bbccd4a6769e6a5818a893be5fc67ad962ce"
+      url "https://github.com/mxriverlynn/3Pitor/releases/download/v0.3.0/3pitor-0.3.0-darwin-x86_64.tar.gz"
+      sha256 "72e846493d34928439b49dd4cbf5a14af1ec49ae2117f23353be5337df90177d"
     end
   end
 
